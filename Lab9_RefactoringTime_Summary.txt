@@ -1,0 +1,8 @@
+Lists are different to Arrays given that Lists have the ability to change its element capacity while they're being added into or removed from. Arrays have a set size and cannot grow or shrink in terms of capacity.
+
+Arrays must also be instantiated with a determined capacity, unless you know what elements it should start with. Lists can be instantiated without a specified size.
+
+string[] array1 = new string[5];
+string[] array2 = {"str1","str2","st3"};
+
+List<string> = new List<string>();
