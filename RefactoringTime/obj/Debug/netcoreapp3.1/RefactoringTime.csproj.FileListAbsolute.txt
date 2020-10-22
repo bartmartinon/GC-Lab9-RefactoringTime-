@@ -1,0 +1,13 @@
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RefactoringTime\RefactoringTime\bin\Debug\netcoreapp3.1\RefactoringTime.exe
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RefactoringTime\RefactoringTime\bin\Debug\netcoreapp3.1\RefactoringTime.deps.json
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RefactoringTime\RefactoringTime\bin\Debug\netcoreapp3.1\RefactoringTime.runtimeconfig.json
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RefactoringTime\RefactoringTime\bin\Debug\netcoreapp3.1\RefactoringTime.runtimeconfig.dev.json
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RefactoringTime\RefactoringTime\bin\Debug\netcoreapp3.1\RefactoringTime.dll
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RefactoringTime\RefactoringTime\bin\Debug\netcoreapp3.1\RefactoringTime.pdb
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RefactoringTime\RefactoringTime\obj\Debug\netcoreapp3.1\RefactoringTime.csprojAssemblyReference.cache
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RefactoringTime\RefactoringTime\obj\Debug\netcoreapp3.1\RefactoringTime.AssemblyInfoInputs.cache
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RefactoringTime\RefactoringTime\obj\Debug\netcoreapp3.1\RefactoringTime.AssemblyInfo.cs
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RefactoringTime\RefactoringTime\obj\Debug\netcoreapp3.1\RefactoringTime.csproj.CoreCompileInputs.cache
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RefactoringTime\RefactoringTime\obj\Debug\netcoreapp3.1\RefactoringTime.dll
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RefactoringTime\RefactoringTime\obj\Debug\netcoreapp3.1\RefactoringTime.pdb
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\RefactoringTime\RefactoringTime\obj\Debug\netcoreapp3.1\RefactoringTime.genruntimeconfig.cache
